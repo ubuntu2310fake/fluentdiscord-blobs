@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Segoe UI";
-  src: local("Segoe UI") format("opentype"), url("https://raw.githubusercontent.com/ubuntu2310fake/fluentdiscord-blobs/main/SF-Pro-Display-Regular.otf") format("opentype");
+  src: local("Segoe UI"), url("https://discordstyles.github.io/Fluent/fonts/normal.woff2") format("woff2");
 }
 @font-face {
   font-family: "Segoe Fluent Icons";
